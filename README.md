@@ -1,6 +1,6 @@
 # Currency Converter App
 
-![Currency App Preview]()
+![Currency App Preview](./Preview.png)
 
 
 ## Overview
