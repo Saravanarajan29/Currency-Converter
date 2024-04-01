@@ -1,5 +1,8 @@
 # Currency Converter App
 
+![Currency App Preview]()
+
+
 ## Overview
 This Currency Converter app is built using React.js and Tailwind CSS, featuring a responsive design for seamless usage across various devices.
 
